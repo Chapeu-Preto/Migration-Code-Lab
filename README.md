@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Migrating to Jetpack Compose
 
 This folder contains the source code for the [Migrating to Jetpack Compose codelab](https://developer.android.com/codelabs/jetpack-compose-migration).
@@ -45,3 +46,7 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+=======
+# Migration-Code-Lab
+Aprendendo a migra telas para o compose, habilidades desenvolvidas no curso da google 
+>>>>>>> 475995b600b1d6038201c648997b0d8478181f0c
